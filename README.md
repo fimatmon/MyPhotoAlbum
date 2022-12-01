@@ -1,2 +1,2 @@
 # MyPhotoAlbum
-Display your photos by a program.
+Display your photos by a Java based program.
